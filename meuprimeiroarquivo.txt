@@ -1,0 +1,3 @@
+Comando GIT
+git status
+git add
