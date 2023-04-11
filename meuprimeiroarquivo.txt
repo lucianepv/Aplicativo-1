@@ -3,3 +3,4 @@ git status
 git add
 git log
 git init
+git commit
